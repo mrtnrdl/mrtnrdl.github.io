@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 excerpt_separator: "<!--more-->"
-
+logo: assets/distorted.jpg
+title: mrtns blog
