@@ -13,7 +13,6 @@ i'm a 30 year old infosec person. coming from a background in development and co
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-	  <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
