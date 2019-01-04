@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "new years resolution for 2019"
+---
+
 ## new years resolutions for 2019
 
 no review of 2018 - i rather look forward to 2019.
