@@ -2,6 +2,7 @@
 layout: post
 title:  "new years resolution for 2019"
 category: personal
+author: mrtn
 ---
 no review of 2018 - i rather look forward to 2019.
 <!--more-->
