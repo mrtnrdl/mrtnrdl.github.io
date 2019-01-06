@@ -1,0 +1,60 @@
+---
+permalink: /.well-known/keybase.txt
+---
+
+==================================================================
+https://keybase.io/mrtnrdl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.mrtnrdl.de
+  * I am mrtnrdl (https://keybase.io/mrtnrdl) on keybase.
+  * I have a public key ASA97TKU8WE0i9BwG5U0_f6HVSpsclxj-9-iUt3pBTS-Wgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012034348e026987c882fd36fc6b64f1667b5a0895fcd690b98513a769e17d0d10d20a",
+      "host": "keybase.io",
+      "kid": "01203ded3294f161348bd0701b9534fdfe87552a6c725c63fbdfa252dde90534be5a0a",
+      "uid": "36d09656ff5945d4f538627c86ad5719",
+      "username": "mrtnrdl"
+    },
+    "merkle_root": {
+      "ctime": 1546771311,
+      "hash": "65eb78971c944be46783c3c6df7600d229c576dc84e4b52cb39aebb33abbed529440d691d266d39e3c63a8dce2580cd85d41fe1907ae4e2924c682762c5e2f1d",
+      "hash_meta": "179bc705ceac5c715ae98d5cbf825dc828a5d205718cae7ee709c9f1e4c9daf4",
+      "seqno": 4239432
+    },
+    "service": {
+      "entropy": "7dYY7vgMB+afQRidMeOQArdf",
+      "hostname": "blog.mrtnrdl.de",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.5"
+  },
+  "ctime": 1546771329,
+  "expire_in": 504576000,
+  "prev": "b577837cc7e3d0980afc380c6e37a9181d88f1dbac33bad16b1418f27fd83369",
+  "seqno": 139,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPe0ylPFhNIvQcBuVNP3+h1UqbHJcY/vfolLd6QU0vloKp3BheWxvYWTES5cCzIvEILV3g3zH49CYCvw4DG43qRgdiPHbrDO60WsUGPJ/2DNpxCAi4T54Fh4ESqdt9l6oHdB53M1UmeYEEfzKZWHIevkpZQIBwqNzaWfEQIjLm9GhIQgyAPtv28FL5pNcd2WdU9Lk/WLDtu9AunjRyvYyJinB0ln5CIJgzkBzB2oerx40l066L1TModHmjQqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC6llXKPfUAdM2hvVXFoLQc5T+gzLaTxBtAq2nIkqsn0qN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrtnrdl
+
+==================================================================
