@@ -8,6 +8,7 @@ coming from a background in development and consulting, the world if information
 
 besides infosec shenanigans, i spend my time playing guitar and the occasional game of dota or cs:go. 
 
+<a rel="me" href="https://infosec.exchange/@0xmrtn">Mastodon</a>
 ### /blog
 
 
