@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 excerpt_separator: "<!--more-->"
 logo: assets/distorted.jpg
 title: mrtns blog
+description: a real human being writing about infosec, coding and books. maybe. 
+url: https://blog.mrtnrdl.de
