@@ -19,3 +19,5 @@ if you want to follow me on social media, there is only <a rel="me" href="https:
     </li>
   {% endfor %}
 </ul>
+
+you can also subscribe via [rss](https://blog.mrtnrdl.de/feed).
