@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "recently read books"
-category: personal
+category: books
 author: mrtn
 ---
 
