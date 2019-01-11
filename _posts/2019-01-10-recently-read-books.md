@@ -7,8 +7,9 @@ author: mrtn
 
 # the every computer performance book by Bob Wescott
 
-i've revisited that one due to work-requirements and i needed to refresh my knowledge about that a bit. i consider this one of the best (because technology-agnostic) books about performance engineering i've read so far. bob does an amazing job of conveying the *core* knowledge that helps developers in their quest for performant applications. 
+i've revisited that one due to work-requirements and i needed to refresh my knowledge on that topic a bit. 
 
+i consider this one of the best (because technology-agnostic) books about performance engineering i've read so far. bob does an amazing job of conveying the *core* knowledge that helps developers in their quest for performant applications. 
 
 # Deep Work: Rules for Focused Success in a Distracted World by Cal Newport 
 
