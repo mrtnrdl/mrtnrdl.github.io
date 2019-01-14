@@ -15,5 +15,5 @@ to get a grip on the materials required, i'm taking the [prep course on linuxaca
 
 ## schedule 
 
-i want to get certified some time in the first half of 2019. according to my estimation (and course schedule on the prep course) i should be able to finish the prep course until end of march - and as soon as i feel comfortable enough, i'll schedule the exam. 
+i want to get certified some time in 2019. according to my estimation (and course schedule on the prep course) i should be able to finish the prep course until end of march - and as soon as i feel comfortable enough, i'll schedule the exam. 
 
