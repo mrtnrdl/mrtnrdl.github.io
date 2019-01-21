@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "movie review: the cleaners"
-category: movie-review 
+category: movies 
 author: mrtn
 ---
 
