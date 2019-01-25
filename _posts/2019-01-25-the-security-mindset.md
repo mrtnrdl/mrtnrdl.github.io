@@ -25,5 +25,8 @@ but even with security-conscious developers, this is not yet solved. the best te
 
 and with customers in mind, we reached the next group where a security mindset could pay off: the paying customers. if scandals, breaches and gaping security holes are not enough to turn your back on some companies and products - well, why should anything change? if we do not vote with our money, nothing will change and everbodies data will be public in the end. 
 
-*tl;dr*
-security is a mindset. developers, product-owners and customers can profit from developing an eye for security in the products they use - or we will be faced with more and more breaches.  
+
+to sum it up, here's the *tl;dr*
+security is a mindset. developers, product-owners and customers can profit from developing an eye for security in the products they use - or we will be faced with more and more breaches.
+
+to create secure software, everyone involved in the process can benefit from being aware of security not as a cost factor, but as a matter of quality.   
