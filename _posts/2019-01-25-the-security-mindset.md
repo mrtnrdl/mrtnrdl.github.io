@@ -26,7 +26,7 @@ but even with security-conscious developers, this is not yet solved. the best te
 and with customers in mind, we reached the next group where a security mindset could pay off: the paying customers. if scandals, breaches and gaping security holes are not enough to turn your back on some companies and products - well, why should anything change? if we do not vote with our money, nothing will change and everbodies data will be public in the end. 
 
 
-to sum it up, here's the 
+to sum it up 
 
 ### tl;dr
 
