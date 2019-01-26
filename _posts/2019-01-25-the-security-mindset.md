@@ -28,7 +28,8 @@ and with customers in mind, we reached the next group where a security mindset c
 
 to sum it up, here's the 
 
-*tl;dr*
+### tl;dr
+
 security is a mindset. developers, product-owners and customers can profit from developing an eye for security in the products they use - or we will be faced with more and more breaches.
 
 to create secure software, everyone involved in the process can benefit from being aware of security not as a cost factor, but as a matter of quality.   
