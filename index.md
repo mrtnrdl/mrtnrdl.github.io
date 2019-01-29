@@ -31,5 +31,5 @@ if you want to follow me on social media, there is only <a rel="me" href="https:
 </ul>
 
 
-### subscribe
+### /subscribe
 [click here](https://blog.mrtnrdl.de/feed) to get the rss feed.
