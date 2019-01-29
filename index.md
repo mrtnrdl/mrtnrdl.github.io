@@ -14,13 +14,13 @@ title: mrtns blog
 
 ### /me
 
-coming from a background in development and consulting, the world if information security caught my attention several years ago. more recently i've started focussing on doing ctfs as well as learning about the tools, techniques and procedures that are used during red team engagements. 
+coming from a background in development and consulting, the world of information security caught my attention several years ago. recently i've started focussing on doing ctfs as well as learning more about the tools, techniques and procedures that are used during red team engagements. 
 
-besides infosec shenanigans, i spend my time playing guitar and the occasional game of dota or cs:go. 
+besides infosec shenanigans, i spend my time playing guitar and the occasional game of dota and cs:go. 
 
 if you want to follow me on social media, there is only <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a>.
-### /blog
 
+### /blog
 
 <ul>
   {% for post in site.posts %}
@@ -30,4 +30,6 @@ if you want to follow me on social media, there is only <a rel="me" href="https:
   {% endfor %}
 </ul>
 
-you can also subscribe via [rss](https://blog.mrtnrdl.de/feed).
+
+### subscribe
+[click here](https://blog.mrtnrdl.de/feed) to get the rss feed.
