@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TITLE GOES HERE"
-category: personal, infosec, books, movies
+category: linux, personal, infosec, books, movies
 author: mrtn
 ---
 
