@@ -5,7 +5,7 @@ category: linux
 author: mrtn
 ---
 
-## Goal
+## goal
 
 The internet gets more and more tracky, annoying and slower every day. After hearing from several people lately, that have tremendous fun with their pi-holes and the ability to surf the web without ads and trackers - even on devices that usually don't have adblockers, i decided to give it a go. 
 
