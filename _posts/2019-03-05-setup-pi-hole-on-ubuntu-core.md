@@ -29,7 +29,7 @@ sudo apt update
 sudo apt install git
 ```
 
-The rest is should be working as described in the [readme](https://github.com/mrtnrdl/pihole-snap/blob/master/README.md). 
+The rest should be working as described in the [readme](https://github.com/mrtnrdl/pihole-snap/blob/master/README.md). 
 
 ## alternative
 
