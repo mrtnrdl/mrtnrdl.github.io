@@ -18,7 +18,7 @@ coming from a background in development and consulting, the world of information
 
 besides infosec shenanigans, i spend my time playing guitar and the occasional game of dota and cs:go. 
 
-if you want to follow me on social media, there is only <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a>.
+if you want to follow me on social media, there is only <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a>. 
 
 ### /blog
 
@@ -33,3 +33,10 @@ if you want to follow me on social media, there is only <a rel="me" href="https:
 
 ### /subscribe
 [click here](https://blog.mrtnrdl.de/feed) to get the rss feed.
+
+
+### /pgp
+
+pubkey fingerprint
+
+`96EE 569A ADCE EC7A 756E E73F C797 7BAB 290A CBB8`
