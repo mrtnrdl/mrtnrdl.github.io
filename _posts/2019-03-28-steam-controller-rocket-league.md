@@ -26,7 +26,10 @@ nothing.
 after hours and hours of web searching, messing with the config, restarting steam, recalibration etc, i found the following:
 
 ```
-Forcing Steam Play/Proton because the Linux build has a bug with the Steam Controller support where the controller will not work in-game. Menus work fine, and changing to generic xinput controls work fine, but I want to use the native SIAPI support which works fine on the Windows build of the game. Steam Controller works perfectly with Rocket League using Steam Play/Proton.
+Forcing Steam Play/Proton because the Linux build has a bug with the Steam Controller support where the controller will not work in-game. 
+Menus work fine, and changing to generic xinput controls work fine, 
+but I want to use the native SIAPI support which works fine on the Windows build of the game. 
+Steam Controller works perfectly with Rocket League using Steam Play/Proton.
 ```
 [source](https://www.protondb.com/app/252950)
 
