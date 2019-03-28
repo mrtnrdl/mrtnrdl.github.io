@@ -5,8 +5,6 @@ category: books
 author: mrtn
 ---
 
-![cover of the art of intrusion](assets/header_images/art-of-intrusion-cover.jpg)
-
 One of the stories that got me interested in infosec a few years ago, was the story of kevin mitnick. out of curiosity - and lacking an idea what it takes to pull something of like that - i decided to jump in deeper in the world of cybers. 
 so after browsing the bookstore a bit, i stumbled upon _the art of intrusion_ - written by kevin mitnick and william l. simon. so i was already intrigued. but instead of only telling more stories from or about kevin, the book explores several fascinating, interesting or crazy hacks. in contrast to most of the hacks in his story that evolve around social engineering, _the art of intrusion_ focusses on technical or physical exploits. 
 

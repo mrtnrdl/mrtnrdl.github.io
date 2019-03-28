@@ -5,8 +5,6 @@ category: linux
 author: mrtn
 ---
 
-![Picture of a steam controller](assets/header_images/steamcontroller.jpeg)
-
 last week, i finally decided it's time for a controller again. as i have a somewhat spare older gaming pc here, i decided it's time to repurpose it. there is space behind the tv - why not using it as a steam box? 
 
 while researching what controller to use - or if i should just buy wireless keyboard/mouse, i realized that the mainboard does not have bluetooth - so i need a dongle anyway. the steam controller comes _with_ a dongle already. well, why not, i thought? 
