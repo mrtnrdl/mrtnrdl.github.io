@@ -55,7 +55,7 @@ Effective, clear communication. That and staying hungry for learning.
 
 9) What is the best book or movie that can be used to illustrate cybersecurity challenges? 
 
-_The Art of Intrusion_ in addition to _Ghost in the Wires_ would give you a pretty good overview of a lot of the security challenges. Combine that with _The Phoenix Project_ and you can relate to the common struggles of developers. 
+_The Art of Intrusion_ in combination with _Ghost in the Wires_ would give you a pretty good overview of a lot of the security challenges. Combine that with _The Phoenix Project_ and you can relate to the common struggles of developers. 
 
 
 10) What is your favorite hacker movie?
