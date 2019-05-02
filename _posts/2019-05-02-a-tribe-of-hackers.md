@@ -7,6 +7,8 @@ author: mrtn
 
 After listening to the [interview with Marcus J. Carey](https://purplesquadsec.com/podcast/episode-54-tribe-of-hackers-with-marcus-j-carey/), curiosity led me to buy yet another book. 
 
+The book is a 14 question interview, that is conducted with lots of security folks that are widely known in the industry. 
+
 Before reading anything but Marcus' own answers, i'd like to chime in with my own. 
 
 1) If there is one myth that you could debunk in cybersecurity, what would it be?
