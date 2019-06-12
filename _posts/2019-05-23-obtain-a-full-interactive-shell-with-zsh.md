@@ -10,7 +10,7 @@ If I'll ever forget it again, hopefully i'll remember this post.
 After getting a connection on your reverse shell, we do not have a fully interactive shell yet. This is especially obvious if you try to `sudo` or something that requires a _real_ terminal. We are confronted with the problem, that `No TTY or askpass program is present`. 
 To solve that, we can *upgrade* our shell. 
 
-First, put your `netcat` session in the background with `ctrl + z`. 
+First, put your ```netcat``` session in the background with `ctrl + z`. 
 
 Get the number of rows and columns with `stty -a | head -n1 | cut -d ';' -f 2-3 | cut -b2- | sed 's/; /\n/'`
 
