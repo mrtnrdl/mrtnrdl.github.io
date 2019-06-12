@@ -10,11 +10,7 @@ If I'll ever forget it again, hopefully i'll remember this post.
 After getting a connection on your reverse shell, we do not have a fully interactive shell yet. This is especially obvious if you try to `sudo` or something that requires a _real_ terminal. We are confronted with the problem, that `No TTY or askpass program is present`. 
 To solve that, we can *upgrade* our shell. 
 
-First, put your 
-```bash
-netcat
-``` 
-session in the background with 
+First, put your netcat session in the background with 
 
 ```bash 
 ctrl + z
