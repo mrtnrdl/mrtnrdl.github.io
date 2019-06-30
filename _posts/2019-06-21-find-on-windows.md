@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "`find` on windows"
+title:  "find on windows"
 category: infosec
 author: mrtn
 ---
