@@ -43,3 +43,6 @@ pubkey fingerprint
 
 [public key](pages/pubkey.asc)
 
+### /legal
+
+[Imprint / Impressum](pages/imprint)
