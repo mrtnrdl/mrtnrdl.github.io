@@ -11,13 +11,13 @@ This is my private blog where I post things I care about and explain stuff I thi
 ### Angaben gemäß § 5 TMG
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Milen Großmann  
-Neuer Steinweg 20  
-20459 Hamburg  
+Martin Riedel
+Thusneldastr. 22
+90482 Nuernberg
 GERMANY
 
 ### Contact:
-E-Mail: milo0 (at) posteo (punkt) de
+E-Mail: contact[at]mrtnrdl[dot]de 
 
 ### Datenschutzerklärung (DSGVO)
 Auf dieser Webseite werden keine personenbezogenen Daten erhoben, gespeichert oder verarbeitet. Es werden keine Cookies verwendet.
