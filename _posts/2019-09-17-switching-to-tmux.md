@@ -63,6 +63,6 @@ set -g @continuum-restore 'on'
 run -b '~/.tmux/plugins/tpm/tpm'
 ```
 
-This offers me (so far) everything i need. From `vim`-like copy and pasting to preserving my opened panes, the status-line and the shortcuts that are deeply ingrained in my muscle-memory. 
+This offers me (so far) everything i need. From `vim`-like copy and pasting (as found [in this blog post](https://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-copy-pasting-ubuntu/)) to preserving my opened panes, the status-line and the shortcuts that are deeply ingrained in my muscle-memory. 
 
 
