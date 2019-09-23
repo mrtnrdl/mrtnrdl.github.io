@@ -2,9 +2,9 @@
 
 ## About
 ---
-Das ist mein persönliches Blog, wo ich frei und offen über meine Meinungen rede und Themen poste, die ich spannend finde. Die hier geposteten Artikel spiegeln deshalb nur meine persönliche Meinung wider und sind in keinster Weise mit meiner Arbeit bei meinem Arbeitgeber (codecentric AG) verbunden.
+Das ist mein persönliches Blog, wo ich frei und offen über meine Meinungen rede und Themen poste, die ich spannend finde. Die hier geposteten Artikel spiegeln nur meine persönliche Meinung wider und sind in keinster Weise mit meiner Arbeit bei meinem Arbeitgeber verbunden.
 
-This is my private blog where I post things I care about and explain stuff I think is worth knowing about. Thus, this blog solely expresses my private, personal opinions and is not representative of my work at my current employer (codecentric AG).
+This is my private blog where I post things I care about and explain stuff I think is worth knowing about. Thus, this blog solely expresses my private, personal opinions and is not representative of my work at my employer.
 
 ## Impressum
 ---
