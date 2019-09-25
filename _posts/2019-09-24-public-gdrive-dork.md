@@ -5,4 +5,4 @@ category: infosec
 author: mrtn
 ---
 
-This neat google dork i found `site:http://drive.google.com 8 +“drive/folders”` will give you a sizable list of public accessable google drive instances. 
+This neat google dork i found `site:http://drive.google.com + “drive/folders”` will give you a sizable list of public accessable google drive instances. 
