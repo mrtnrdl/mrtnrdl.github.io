@@ -18,7 +18,7 @@ Coming from a background in development and consulting, the world of information
 
 Besides infosec shenanigans, i spend my time playing guitar and the occasional video gaming. 
 
-If you want to follow me on social media, there is only <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a>. Apart from that, you can follow me on <a href="https://twitch.tv/0xmrtn">twitch</a>.  
+If you want to follow me on social media, you can do this on <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a> and <a href="https://twitch.tv/0xmrtn">twitch</a>.  
 
 
 ### /blog
