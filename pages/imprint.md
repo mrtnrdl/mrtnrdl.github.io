@@ -12,8 +12,8 @@ This is my private blog where I post things I care about and explain stuff I thi
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 Martin Riedel
-Thusneldastr. 22
-90482 Nuernberg
+Pappelweg 3a
+21755 Hechthausen
 GERMANY
 
 ### Contact:
