@@ -12,16 +12,16 @@ title: mrtns blog
 	<meta name="theme-color" content="#ffffff">
 </head>
 
-### /me
+## /me
 
-Coming from a background in development and consulting, the world of information security caught my attention several years ago. Recently I'm doing CTFs as well as learning more about the tools, techniques and procedures that are used in pentests or from adversaries. 
+Coming from a background in development and consulting, the world of information security caught my attention several years ago. From writing secure code I joined the dark(er) side and joined the attackers. Recently I'm doing CTFs as well as learning more about the tools, techniques and procedures that are used in pentests or from adversaries. 
 
 Besides infosec shenanigans, i spend my time playing guitar and the occasional video gaming. 
 
 If you want to follow me on social media, you can do this on <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a> and <a href="https://twitch.tv/0xmrtn">twitch</a>.  
 
 
-### /blog
+## /blog
 
 <ul>
   {% for post in site.posts %}
@@ -32,11 +32,11 @@ If you want to follow me on social media, you can do this on <a rel="me" href="h
 </ul>
 
 
-### /subscribe
+## /subscribe
 [click here](https://blog.mrtnrdl.de/feed) to get the rss feed.
 
 
-### /pgp
+## /pgp
 
 pubkey fingerprint
 
@@ -44,6 +44,6 @@ pubkey fingerprint
 
 [public key](pages/pubkey.asc)
 
-### /legal
+## /legal
 
 [Imprint / Impressum](pages/imprint)
