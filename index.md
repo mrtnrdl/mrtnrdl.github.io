@@ -20,6 +20,7 @@ Besides infosec shenanigans, i spend my time playing guitar and the occasional v
 
 If you want to follow me on social media, you can do this on <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a> and <a href="https://twitch.tv/0xmrtn">twitch</a>.  
 
+In case you are interested in productivity tools and finances - feel free to support me and sign up to several tools and platforms through my [referral links](pages/referrals). 
 
 ## /blog
 
