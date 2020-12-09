@@ -83,7 +83,7 @@ Here we are. What a weird year it has been. Thinking about it, the most things a
 
 Witnessing this whole ordeal has shown me the importance of health and family again. Also: I'm glad when the year is over and i look forward what 2021 will bring us.
 
-_if you made it this far - thank you and i wish you all the best for you, your family and the year 2021. Feel free to share your past year with me. You can find my email [here](pages/imprint)._
+_if you made it this far - thank you and i wish you all the best for you, your family and the year 2021. Feel free to share your past year with me. You can find my email [here](../pages/imprint)._
 
  
 
