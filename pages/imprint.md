@@ -11,10 +11,10 @@ This is my private blog where I post things I care about and explain stuff I thi
 ### Angaben gemäß § 5 TMG
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Martin Riedel \
-Pappelweg 3a \
-21755 Hechthausen \
-GERMANY \
+Martin Riedel  
+Pappelweg 3a  
+21755 Hechthausen  
+GERMANY  
 
 ### Contact:
 E-Mail: contact[at]mrtnrdl[dot]de 
