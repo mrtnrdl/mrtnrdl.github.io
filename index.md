@@ -22,6 +22,8 @@ If you want to follow me on social media, you can do this on <a rel="me" href="h
 
 In case you are interested in productivity tools and finances - feel free to support me and sign up to several tools and platforms through my [referral links](pages/referrals). 
 
+If you want to hire me - have a look at my [CV](pages/cv) and take it from there. 
+
 ## /blog
 
 <ul>
