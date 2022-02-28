@@ -4,5 +4,3 @@ logo: assets/distorted.jpg
 title: mrtns blog
 description: a real human being writing about infosec, coding and other stuff. maybe. 
 url: https://blog.mrtnrdl.de
-markdown:   kramdown
-style:  kjhealy
