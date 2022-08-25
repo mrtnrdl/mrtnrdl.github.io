@@ -21,11 +21,43 @@ Senior IT Security Consultant - Penetration Testing, Trainings, AppSec, CloudSec
 
 ### Toolset
 
-Linux, Windows, macOs, Golang, Python, Rust, Docker, Bash, BurpSuite, gobuster, nmap, Axiom, Azure, AWS, GCP, kubernetes, ffuf, Kali Linux, 
+Linux, 
+Windows, 
+macOs, 
+golang, 
+Python, 
+Rust, 
+Docker, 
+Bash, 
+BurpSuite, 
+gobuster, 
+nmap, 
+Axiom, 
+Azure,
+AWS, 
+GCP, 
+digital ocean,
+kubernetes, 
+ffuf, 
+Kali Linux,
+ 
 
 ### IT Security
 
-Penetration Testing, Red Teaming, OWASP, Cloud Security, Architecture and Code Reviews, Data Exfiltration, OSINT, Network Security, Reverse Engineering, Binary Exploitation, Mobile Security, Wep App Security, Application Security, Threat Modelling
+Penetration Testing, 
+Red Teaming, 
+OWASP, 
+Cloud Security, 
+Architecture and Code Reviews, 
+Data Exfiltration, 
+OSINT, 
+Network Security, 
+Reverse Engineering, 
+Binary Exploitation, 
+Mobile Security, 
+Wep App Security, 
+Application Security, 
+Threat Modelling
 
 ### Methodologies
 
@@ -37,8 +69,12 @@ DevSecOps
 
 ### Certifications
 
-eJPT,
-eCPPT,
+eJPT
+
+eCPPT - https://verified.elearnsecurity.com/certificates/7b8a2879-197f-43d8-8f4e-1fe1dea4e8ce
+
+CARTP - https://www.credential.net/80ca30c2-7d22-4a84-9742-801f68037dd9#gs.9nehk9
+
 Professional SCRUM Master (PSM I)
 
 
@@ -85,6 +121,6 @@ __Senior IT Security Consultant, codecentric AG__, Hamburg
 
 <!-- ### Footer
 
-Last updated: February 2022-->
+Last updated: August 2022-->
 
 
