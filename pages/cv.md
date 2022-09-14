@@ -96,6 +96,9 @@ __Bachelor of Science Informatik__, Hof University
 
 `06/2021` Blog: Penetration Testing in die Cloud skalieren mit Axiom
 
+`09/2022` Artikel: Keine Angst vor Pentests` [Softwerker Vol. 21](https://info.codecentric.de/softwerker-vol-21?utm_campaign=2022-Softwerker-Vol_21&utm_content=221078540&utm_medium=social&utm_source=linkedin&hss_channel=lcp-276104)
+
+
 
 ## Occupation
 
