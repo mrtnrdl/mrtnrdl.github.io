@@ -18,9 +18,8 @@ Coming from a background in development and consulting, the world of information
 
 Besides infosec shenanigans, i spend my time playing guitar and the occasional video gaming. 
 
-If you want to follow me on social media, you can do this on <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a>, <a href="https://twitter.com/_r00tme">twitter</a>  and <a href="https://twitch.tv/0xmrtn">twitch</a>. Audio content can be found on <a href="https://racket.com/r00t">racket</a>. 
+If you want to follow me on social media, you can do this on <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a> and <a href="https://twitch.tv/0xmrtn">twitch</a>. 
 
-In case you are interested in productivity tools and finances - feel free to support me and sign up to several tools and platforms through my [referral links](pages/referrals). 
 
 If you want to hire me - have a look at my [CV](pages/cv) and take it from there. 
 
