@@ -13,10 +13,9 @@ title: mrtns blog
 </head>
 
 ## /me
+I'm Martin and my pronouns are he/him. I live in the North of Germany. Coming from a background in development and consulting, the world of information security caught my attention several years ago. From writing secure code I joined the dark(er) side and joined the attackers. Recently I'm doing CTFs as well as learning more about the tools, techniques and procedures that are used in pentests or from adversaries. 
 
-Coming from a background in development and consulting, the world of information security caught my attention several years ago. From writing secure code I joined the dark(er) side and joined the attackers. Recently I'm doing CTFs as well as learning more about the tools, techniques and procedures that are used in pentests or from adversaries. 
-
-Besides infosec shenanigans, i spend my time playing guitar and the occasional video gaming. 
+Besides infosec shenanigans, i spend my time with my family and the occasional video gaming session when they are asleep. 
 
 If you want to follow me on social media, you can do this on <a rel="me" href="https://infosec.exchange/@0xmrtn">mastodon</a> and <a href="https://twitch.tv/0xmrtn">twitch</a>. 
 
