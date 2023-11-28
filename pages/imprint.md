@@ -12,8 +12,8 @@ This is my private blog where I post things I care about and explain stuff I thi
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 Martin Riedel  
-Pappelweg 3a  
-21755 Hechthausen  
+Am Elbdeich 66
+21706 Drochtersen
 GERMANY  
 
 ### Contact:
