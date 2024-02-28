@@ -9,6 +9,7 @@ IT Security x Software Development and Architecture
 <a href="mail@mrtnrdl.de">mail@mrtnrdl.de</a>
 | <a href="https://blog.mrtnrdl.de">blog</a>
 | <a href="https://github.com/mrtnrdl">github</a>
+| <a href="https://nordnordsec.beehiiv.com">nord nord sec</a>
 </div>
 
 
@@ -99,6 +100,7 @@ __Bachelor of Science Informatik__, Hof University
 
 `09/2022` Artikel: Keine Angst vor Pentests` [Softwerker Vol. 21](https://info.codecentric.de/softwerker-vol-21?utm_campaign=2022-Softwerker-Vol_21&utm_content=221078540&utm_medium=social&utm_source=linkedin&hss_channel=lcp-276104)
 
+`12/2023` Artikel: Eine Erschütterung der Macht` [Softwerker KI Spezial](https://www.codecentric.de/wissens-hub/softwerker/softwerker-spezial-generative-ki)
 
 
 ## Occupation
